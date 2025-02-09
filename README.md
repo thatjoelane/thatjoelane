@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- ❓ I have absolutely no idea what I'm doing...
+- ❗ But I know WHAT I want to do!
+- 📚 I'm learning how to use GitHub.
+- 🔍 I want to build a visual collector's database that shows items I've collected and items I've yet to collect.
+
 <!--
 **thatjoelane/thatjoelane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
